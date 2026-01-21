@@ -81,7 +81,8 @@ line-height: 1.6;
 }
 
 .hero-images img {
-    width: 200px;
+    width: 180px;
+    max-width: 100%;
 }
 
 /* RESPIONSIVE (PHONE  VIEW) */
@@ -96,6 +97,5 @@ line-height: 1.6;
     }
 
     .hero-images img {
-        width: 150px;
+        width: 200px;
     }
-}
